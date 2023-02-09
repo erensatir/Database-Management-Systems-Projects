@@ -21,18 +21,6 @@ Requirements
 6. The system accepts orders for products and send them to companies. Each order has an amount and order date information.
   * If the total active orders exceed the production capacity of company, it should automatically be rejected.
 
-Grading
-=======
-The submitted source codes will be graded with a private set of tests, using your repositories. The grading rules will be published in LMS. 
-
-Submission
-==========
-Please add your ER-diagram, relational model documentation under docs, and submit your project to LMS. Submission deadline will be available on LMS. Late submissions are going to be penalized with 10 points each day.
-
-Scholastic Honesty
-==================
-Students are expected to abide by the rules of scholastic honesty. Any form of scholastic dishonesty is a serious academic violation and will result in a disciplinary action. Violations of scholastic honesty include, but are not limited to cheating, plagiarizing, fabricating information or citations, facilitating acts of dishonesty by others, having unauthorized possession of examinations, submitting work of another person or work previously used without informing the instructor, or tampering with the academic work of other students.
-
 NOTE
 ====
 Intellij IDE, JAVA 14 and Maven are used 
